@@ -18,13 +18,13 @@ KasiCare provides:
 
 The digital clinic card allows users to easily access important healthcare information such as their ID number, blood type, allergies, chronic conditions and home clinic.
 
-![KasiCare Digital Clinic Card](images/kasicare-digital-card.png)
+![KasiCare Digital Clinic Card](kasicare-digital-card.png)
 
 ### Nompilo Health Assistant
 
 Nompilo is the KasiCare health assistant that provides general health information and helps users with questions about their clinic journey.
 
-![KasiCare Nompilo Health Assistant](images/kasicare-nompilo.png)
+![KasiCare Nompilo Health Assistant](kasicare-nompilo.png)
 
 ---
 
@@ -63,6 +63,6 @@ Nompilo provides **general health information only**. It does not replace profes
 
 | Digital Clinic Card | Nompilo Assistant |
 |---|---|
-| ![Digital Clinic Card](images/kasicare-digital-card.png) | ![Nompilo Assistant](images/kasicare-nompilo.png) |
+| ![Digital Clinic Card](kasicare-digital-card.png) | ![Nompilo Assistant](kasicare-nompilo.png) |
 
 
