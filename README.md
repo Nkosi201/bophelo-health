@@ -42,13 +42,6 @@ KasiCare aims to simplify access to basic healthcare information for communities
 - User-friendly interface
 - Community-focused healthcare experience
 
-## 🛠️ Technologies
-
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-
 ## 👥 Target Users
 
 KasiCare is designed primarily for community members who need a simple way to manage and access their basic healthcare information.
@@ -56,13 +49,5 @@ KasiCare is designed primarily for community members who need a simple way to ma
 ## ⚠️ Disclaimer
 
 Nompilo provides **general health information only**. It does not replace professional medical advice, diagnosis or treatment. Users should speak to a qualified healthcare professional for medical advice.
-
----
-
-## 📸 Screenshots
-
-| Digital Clinic Card | Nompilo Assistant |
-|---|---|
-| ![Digital Clinic Card](kasicare-digital-card.png) | ![Nompilo Assistant](kasicare-nompilo.png) |
 
 
