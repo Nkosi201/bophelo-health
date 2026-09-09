@@ -47,8 +47,7 @@ KasiCare aims to simplify access to basic healthcare information for communities
 - HTML
 - CSS
 - JavaScript
-- Node.js
-- Tailwind CSS
+- TypeScript
 
 ## 👥 Target Users
 
